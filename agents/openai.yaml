@@ -1,0 +1,4 @@
+interface:
+  display_name: "老王面后复盘"
+  short_description: "面后复盘、错题本、每日加练。写工作册 B/C 章。"
+  default_prompt: "用 laowang-mianshi-fupan 复盘刚结束的面试，写入工作册 B/C 章。"

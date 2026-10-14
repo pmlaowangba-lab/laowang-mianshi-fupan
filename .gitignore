@@ -1,0 +1,9 @@
+workspace/
+output/
+.env
+.env.*
+*.secret
+*secret*.yaml
+__pycache__/
+*.pyc
+.DS_Store
